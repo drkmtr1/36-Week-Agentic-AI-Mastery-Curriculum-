@@ -10,4 +10,4 @@ Weekly Protocol
 
 Current Week: `Week‑01` – Python Basics.
 
-CI Status ![Lint](https://github.com/<your‑user>/<repo>/actions/workflows/lint.yml/badge.svg)
+CI Status ![Lint](https://github.com/<your‑user>/<repo>/actions/workflows/lint.yml/badge.svg)Last updated: 2025-05-22
