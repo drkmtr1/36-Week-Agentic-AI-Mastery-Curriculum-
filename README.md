@@ -13,5 +13,5 @@ A public log of my 36-week journey from Python basics to deploying AI agents.
 ## CI Status  
 ![Lint](https://github.com/drkmtr1/36-Week-Agentic-AI-Mastery-Curriculum-/actions/workflows/lint.yml/badge.svg)
 
-## Stack  
+Stack  
 Python 3.11 • Jupyter • nbqa-black • GitHub Actions
