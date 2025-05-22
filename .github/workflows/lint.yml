@@ -9,4 +9,4 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install nbqa==1.7 black==23.7
-      - run: nbqa black .YAML
+      - run: nbqa black --check .
