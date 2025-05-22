@@ -15,3 +15,4 @@ A public log of my 36-week journey from Python basics to deploying AI agents.
 
 Stack  
 Python 3.11 • Jupyter • nbqa-black • GitHub Actions
+# 
